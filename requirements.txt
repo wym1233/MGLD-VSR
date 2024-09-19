@@ -23,6 +23,3 @@ matplotlib
 wandb
 pillow
 av
-openmim
--e git+https://gitee.com/atari/taming-transformers.git@master#egg=taming-transformers
--e git+https://github.com/openai/CLIP.git@main#egg=clip
